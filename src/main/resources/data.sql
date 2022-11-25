@@ -1,2 +1,2 @@
-INSERT INTO ITEMS(item_id, designation)
-VALUES (1, 'EXAMPLE');
+insert into ITEMS(id, designation)
+values (1, 'EXAMPLE');
