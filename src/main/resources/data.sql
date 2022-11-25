@@ -1,2 +1,2 @@
 insert into ITEMS(id, designation)
-values (1, 'EXAMPLE100');
+values (1, 'EXAMPLE');
